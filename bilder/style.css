@@ -1,8 +1,14 @@
-.warhammer style
-{
+.parentDiv {
+
+border: 1px;
+background-color: darkred;
 background-image: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
+
+
+}
+.childDiv{
+  background-image: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
-
 
 }
