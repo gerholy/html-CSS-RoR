@@ -38,9 +38,9 @@ margin: 15px;
 width: 800px;
 height: 400px;
 box-shadow: -1px 0 10px #000000;
-align-items: center;
-justify-content: center;
-text-align: center;
+align-items: end;
+justify-content: end;
+text-align: end;
 }
 
 img{
