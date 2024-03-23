@@ -13,6 +13,19 @@ background-size: 100%;
 
 }
 
+body{
+background-color: darkred;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+align-items: center;
+justify-content: center;
+display: flex;
+
+
+}
+
+
+
+
 .cover{
 width: 900px;
 height: 400px;
