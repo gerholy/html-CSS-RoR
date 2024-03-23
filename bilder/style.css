@@ -1,72 +1,29 @@
-.parentDiv {
-
-border: 1px;
-background-color: darkred;
-background-image: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
-
-
-}
-.childDiv{
-  background-image: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
-background-repeat: no-repeat;
-background-size: 100%;
-
-}
-
 body{
-background-color: darkred;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-align-items: end;
-justify-content: end;
-display: flex;
-
-
+padding: 0;
+margin: 0;
+font-family: sans-serif;
 }
 
 
-
-
-.cover{
-width: 900px;
-height: 400px;
-margin-top: 50px;
-display: flexbox;  
+.container{
+height: 100vh;
+background: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
+background-size: cover;
+background-repeat: no-repeat;
 }
 
-.box{
-margin: 15px;
-width: 800px;
-height: 400px;
-box-shadow: -1px 0 10px #000000;
-align-items: end;
-justify-content: end;
-text-align: end;
+h1{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+text-transform: uppercase;
+color: orange;
+font-size: 100px;
+width: 90%;
+mix-blend-mode: overlay;
+text-shadow: 0 5px 10px rgba(0, 0, 0, 1);
+
+
 }
-
-img{
-  width: 300px;
-  height: 200px;
-  display:flex ;
-
-}
-
-
-
-<style>
-    * {
-  margin: 0;
-  padding: 0;
-  
-    }
-  .background-image {
-   background-image: url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg);
-   background-size: cover ;
-   background-repeat: no-repeat;
-   height: 100vh;
-   background-position: center;
-  
-  
-  }
-  
-  
-  </style> 
