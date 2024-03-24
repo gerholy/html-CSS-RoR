@@ -2,6 +2,8 @@ body {
   background-image: url(warhammer_online_age_of_reckoning_game-wallpaper-1920x1080.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
   
   
   }
@@ -23,11 +25,3 @@ color: rgb(250, 0, 0);
 
 }
 
-body {
-background-image: url(https://wallpaperswide.com/warhammer_online_age_of_reckoning_game-wallpapers.html#google_vignette);
-background-size: cover;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center center;
-
-}
