@@ -1,15 +1,10 @@
-.background::before {
-content: ";
-position: absolute;
-top: 0px;
-width: 100%;
-height: 100%;
-left 0px;
-background-image url(650756_warhammer-online-games-age-of-reckoning-hd-wallpapers_1920x1080_h.jpg)
-background-size: cover;
-background-position top center;
-opacity 0.3;
-}
+body {
+  background-image: url(warhammer_online_age_of_reckoning_game-wallpaper-1920x1080.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  
+  }
 
 h1{
 color: darkorange;
@@ -28,4 +23,11 @@ color: darksalmon;
 
 }
 
+body {
+background-image: url(https://wallpaperswide.com/warhammer_online_age_of_reckoning_game-wallpapers.html#google_vignette);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
 
+}
