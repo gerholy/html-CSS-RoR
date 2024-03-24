@@ -7,9 +7,9 @@ body {
   }
 
 h1{
-color: darkorange;
+color: rgb(255, 251, 4);
 text-transform: uppercase;
-text-align: center;
+text-align: top;
 font-size: 25px;
 margin-top: 50px;
 
@@ -19,7 +19,7 @@ h2 {
 font-size: x-large;
 text-align: left;
 font-style: italic;
-color: darksalmon;
+color: rgb(250, 0, 0);
 
 }
 
