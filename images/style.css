@@ -1,43 +1,46 @@
 body {
   background-image: url(warhammer_online_age_of_reckoning_game-wallpaper-1920x1080.jpg);
-  background-size: cover;
+  background-size:cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  
-  
-  }
+} 
+  h1 {
+    color: rgb(255, 251, 4);
+    text-transform: uppercase;
+    text-align: top;
+    font-size: 25px;
+    margin-top: 50px;
+    
+    }
+    
+    h2 {
+    font-size: x-large;
+    text-align: bottom;
+    font-style: italic;
+    color: rgb(250, 0, 0);
+    }
+    
+    .background {
+      color: black;
+    }
+    
+    }
+    
+    p{
+      color: rgb(0, 0, 0);
+    }
+    .xl-font {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    
+    .font-1 {
+    font-size: 15px;
+    
+    }
 
-h1{
-color: rgb(255, 251, 4);
-text-transform: uppercase;
-text-align: top;
-font-size: 25px;
-margin-top: 50px;
-
-}
-
-h2 {
-font-size: x-large;
-text-align: bottom;
-font-style: italic;
-color: rgb(250, 0, 0);
-}
-
-.background {
-background-color: black;
-
-}
-
-p{
-  color: rgb(0, 0, 0);
-}
-.xl-font {
-font-size: 20px;
-
-}
-
-.font-1 {
-font-size: 15px;
+div {
+  max-height: 200px;
+  overflow: scroll;
 
 }
